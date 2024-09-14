@@ -4,7 +4,8 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot.png1.PNG)
+![screenshot](./app_screenshot.png2.PNG)
 
 Additional description about the project and its features.
 
@@ -16,7 +17,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](http://127.0.0.1:5501/)
+[Live Demo Link](http://127.0.0.1:5504/index.html)
 
 
 ## Getting Started
