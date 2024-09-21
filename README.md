@@ -17,7 +17,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](http://127.0.0.1:5504/index.html)
+[Live Demo Link](https://jairosalgar15.github.io/Odin-recipes/)
 
 
 ## Getting Started
